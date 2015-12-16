@@ -8,6 +8,8 @@ Project developed using Panda3D and Crayon3D.
 Game design, level design, game implementation and user testing where made all by myself. 
 I had a designer that provided me the game art.
 
+Download the game [here](https://dl.dropboxusercontent.com/u/8500453/Glooveth.exe)
+
 ## Languages
 
 Python
