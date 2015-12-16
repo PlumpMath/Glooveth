@@ -3,10 +3,16 @@
 ## Description
 
 Degree's Master Thesis, winner of the Silver Award in the eHealth Challange 2010.
-Glooveth is a Serious Game focused on healthy living.
+Glooveth is a Serious Game about healthy living.
 Project developed using Panda3D and Crayon3D.
-Game design, level design, game implementation and user testing where made all by myself. 
+Game design, level design, game implementation and user testing where developed all by myself. 
 I had a designer that provided me the game art.
+
+大学論文プロジェクト。
+健康を学ぶためにシリアスゲームを開発。
+Panda3DやCrayon3Dを使用。
+ゲームデザイン・レベルデザイン・ゲーム開発・ユーザーテストを開発。
+デザイナーがいたので、ゲームアートを作ってくれました。
 
 Download the game [here](https://dl.dropboxusercontent.com/u/8500453/Glooveth.exe)
 
