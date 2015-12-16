@@ -9,7 +9,7 @@ Game design, level design, game implementation and user testing where developed 
 I had a designer that provided me the game art.
 
 大学論文プロジェクト。
-健康を学ぶためにシリアスゲームを開発。
+健康を教えるためにシリアスゲームを開発。
 Panda3DやCrayon3Dを使用。
 ゲームデザイン・レベルデザイン・ゲーム開発・ユーザーテストを開発。
 デザイナーがいたので、ゲームアートを作ってくれました。
