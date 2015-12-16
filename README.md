@@ -8,13 +8,13 @@ Project developed using Panda3D and Crayon3D.
 Game design, level design, game implementation and user testing where developed all by myself. 
 I had a designer that provided me the game art.
 
+Download the game [here](https://dl.dropboxusercontent.com/u/8500453/Glooveth.exe)
+
 大学論文プロジェクト。
 健康を教えるためにシリアスゲームを開発。
 Panda3DやCrayon3Dを使用。
 ゲームデザイン・レベルデザイン・ゲーム開発・ユーザーテストを開発。
 デザイナーがいたので、ゲームアートを作ってくれました。
-
-Download the game [here](https://dl.dropboxusercontent.com/u/8500453/Glooveth.exe)
 
 ## Languages
 
